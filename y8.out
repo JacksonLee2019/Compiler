@@ -1,0 +1,10 @@
+SPIM Version 8.0 of January 8, 2010
+Copyright 1990-2010, James R. Larus.
+All Rights Reserved.
+See the file README for a full copyright notice.
+x = 1
+y = 2
+incrementing x
+decrementing y
+x = 2
+y = 1

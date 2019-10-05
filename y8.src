@@ -1,0 +1,18 @@
+x, y :: 0
+
+main :: {
+  x = get(int)
+  put("x = ") put(x) put("\n")
+
+  y = get(int)
+  put("y = ") put(y) put("\n")
+
+  put("incrementing x") put("\n")
+  x = x++
+
+  put("decrementing y") put("\n")
+  y = y--
+
+  put("x = ") put(x) put("\n")
+  put("y = ") put(y) put("\n")
+}
