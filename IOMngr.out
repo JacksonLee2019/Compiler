@@ -1,0 +1,42 @@
+     1: [95m;[0m
+        [95m**[0m SEMI found
+     2:           [95m;[0m
+        [95m**[0m SEMI found
+     3: var [91m=[0m [91m25[0m[95m;[0m
+        [91m**[0m EQUAL found
+        [91m**[0m NUMBR found
+        [95m**[0m SEMI found
+     4: longvar [91m=[0m [91m4713[0m - [91m22[0m[95m;[0m
+        [91m**[0m EQUAL found
+        [91m**[0m NUMBR found
+        [91m**[0m NUMBR found
+        [95m**[0m SEMI found
+     5: 
+     6: [95m;[0m         [95m;[0m
+        [95m**[0m SEMI found
+        [95m**[0m SEMI found
+     7: 
+     8: more[91m=[0m[91m54[0m[95m;[0m
+        [91m**[0m EQUAL found
+        [91m**[0m NUMBR found
+        [95m**[0m SEMI found
+     9: 
+    10: a more or less long line that does not really contain much
+    11: 
+    12: [91m12[0m,[91m13[0m,[91m14[0m,[91m15[0m
+        [91m**[0m NUMBR found
+        [91m**[0m NUMBR found
+        [91m**[0m NUMBR found
+        [91m**[0m NUMBR found
+    13: [91m16[0m[95m;[0m[91m17[0m[95m;[0m[91m18[0m[95m;[0m[91m19[0m[95m;[0m
+        [91m**[0m NUMBR found
+        [95m**[0m SEMI found
+        [91m**[0m NUMBR found
+        [95m**[0m SEMI found
+        [91m**[0m NUMBR found
+        [95m**[0m SEMI found
+        [91m**[0m NUMBR found
+        [95m**[0m SEMI found
+        [95m**[0m EOF found
+        [95m**[0m EOF found
+        [95m**[0m EOF found

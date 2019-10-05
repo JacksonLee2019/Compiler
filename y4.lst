@@ -1,0 +1,7 @@
+
+Symbol Table: global
+Num Scope                Name           Ref            Type
+  0 global               x              _x             int          0
+  1 global               main           _main          () -> void
+  2 global               fac            _fac           int          0
+Parse Successful

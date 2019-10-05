@@ -1,0 +1,33 @@
+offset source
+    0: This is some test
+   18: text.
+   24: A little more.
+   39: 1 2 3 4 5 6 7 8 9
+   57: Another line
+   70: First second
+   83: third
+   89: forth fifth.
+  102: We are
+  109: done!
+
+     1: [91mThis[0m is some [94mtest[0m
+        [91m**[0m This
+     2: [94mtext[0m.
+        [94m**[0m test text
+     3: A [91mlittle[0m [94mmore.[0m
+        [91m**[0m little
+        [94m**[0m more
+     4: 1 2 [94m3 4[0m [96m5[0m 6 [95m7 8 9[0m
+        [94m**[0m 3 4
+        [96m**[0m 5
+        [95m**[0m 7 8 9
+     5: Another line
+     6: [94mFirst second[0m
+     7: [94mthird[0m
+     8: [94mforth fifth[0m.
+        [94m**[0m First ... fifth
+     9: We [95mare[0m
+    10: [95mdone[0m!
+        [95m**[0m are done
+        [96m**[0m end of source - 1
+        [91m**[0m end of source - 2
